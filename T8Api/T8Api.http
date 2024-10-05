@@ -1,6 +1,6 @@
-@T8LApplication1_HostAddress = http://localhost:5258
+@T8Api_HostAddress = http://localhost:5258
 
-GET {{T8LApplication1_HostAddress}}/weatherforecast/
+GET {{T8Api_HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###

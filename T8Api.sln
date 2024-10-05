@@ -6,6 +6,9 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataModel", "DataModel\DataModel.csproj", "{F9D1A810-41AD-41DC-A34A-CEFBCE28E0EC}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T8Api", "T8Api\T8Api.csproj", "{C928FF4E-7C27-4F1A-81C6-A77EF8FBCBDE}"
+	ProjectSection(ProjectDependencies) = postProject
+		{F9D1A810-41AD-41DC-A34A-CEFBCE28E0EC} = {F9D1A810-41AD-41DC-A34A-CEFBCE28E0EC}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace T8LApplication1.Controllers
+namespace T8Api.Controllers
 {
     [ApiController]
     [Route("[controller]")]

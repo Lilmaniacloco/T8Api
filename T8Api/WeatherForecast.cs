@@ -1,4 +1,4 @@
-namespace T8LApplication1
+namespace T8Api
 {
     public class WeatherForecast
     {
