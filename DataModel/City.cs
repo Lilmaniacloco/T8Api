@@ -15,10 +15,10 @@ public partial class City
     [Column("countryid")]
     public int Countryid { get; set; }
 
-    [Column("city")]
+    [Column("name")]
     [StringLength(50)]
     [Unicode(false)]
-    public string City1 { get; set; } = null!;
+    public string Name { get; set; } = null!;
 
     [Column("lat")]
     public double Lat { get; set; }

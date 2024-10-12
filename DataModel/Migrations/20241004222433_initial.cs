@@ -32,7 +32,7 @@ namespace DataModel.Migrations
                     id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
                     countryid = table.Column<int>(type: "int", nullable: false),
-                    city = table.Column<string>(type: "varchar(50)", unicode: false, maxLength: 50, nullable: false),
+                    name = table.Column<string>(type: "varchar(50)", unicode: false, maxLength: 50, nullable: false),
                     lat = table.Column<double>(type: "float", nullable: false),
                     lng = table.Column<double>(type: "float", nullable: false),
                     population = table.Column<int>(type: "int", nullable: false)

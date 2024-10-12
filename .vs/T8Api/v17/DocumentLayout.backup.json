@@ -3,28 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\dm353201\\source\\repos\\T8Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C928FF4E-7C27-4F1A-81C6-A77EF8FBCBDE}|T8Api\\T8Api.csproj|c:\\users\\dm353201\\source\\repos\\t8api\\t8api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C928FF4E-7C27-4F1A-81C6-A77EF8FBCBDE}|T8Api\\T8Api.csproj|solutionrelative:t8api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9D1A810-41AD-41DC-A34A-CEFBCE28E0EC}|DataModel\\DataModel.csproj|c:\\users\\dm353201\\source\\repos\\t8api\\datamodel\\dmqcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9D1A810-41AD-41DC-A34A-CEFBCE28E0EC}|DataModel\\DataModel.csproj|solutionrelative:datamodel\\dmqcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C928FF4E-7C27-4F1A-81C6-A77EF8FBCBDE}|T8Api\\T8Api.csproj|c:\\users\\dm353201\\source\\repos\\t8api\\t8api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C928FF4E-7C27-4F1A-81C6-A77EF8FBCBDE}|T8Api\\T8Api.csproj|solutionrelative:t8api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C928FF4E-7C27-4F1A-81C6-A77EF8FBCBDE}|T8Api\\T8Api.csproj|c:\\users\\dm353201\\source\\repos\\t8api\\t8api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C928FF4E-7C27-4F1A-81C6-A77EF8FBCBDE}|T8Api\\T8Api.csproj|solutionrelative:t8api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{C928FF4E-7C27-4F1A-81C6-A77EF8FBCBDE}|T8Api\\T8Api.csproj|c:\\users\\dm353201\\source\\repos\\t8api\\t8api\\controllers\\seedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C928FF4E-7C27-4F1A-81C6-A77EF8FBCBDE}|T8Api\\T8Api.csproj|solutionrelative:t8api\\controllers\\seedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C928FF4E-7C27-4F1A-81C6-A77EF8FBCBDE}|T8Api\\T8Api.csproj|c:\\users\\dm353201\\source\\repos\\t8api\\t8api\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C928FF4E-7C27-4F1A-81C6-A77EF8FBCBDE}|T8Api\\T8Api.csproj|solutionrelative:t8api\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9D1A810-41AD-41DC-A34A-CEFBCE28E0EC}|DataModel\\DataModel.csproj|c:\\users\\dm353201\\source\\repos\\t8api\\datamodel\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9D1A810-41AD-41DC-A34A-CEFBCE28E0EC}|DataModel\\DataModel.csproj|solutionrelative:datamodel\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C928FF4E-7C27-4F1A-81C6-A77EF8FBCBDE}|T8Api\\T8Api.csproj|c:\\users\\dm353201\\source\\repos\\t8api\\t8api\\data\\worldcitiescsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C928FF4E-7C27-4F1A-81C6-A77EF8FBCBDE}|T8Api\\T8Api.csproj|solutionrelative:t8api\\data\\worldcitiescsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C928FF4E-7C27-4F1A-81C6-A77EF8FBCBDE}|T8Api\\T8Api.csproj|c:\\users\\dm353201\\source\\repos\\t8api\\t8api\\dto\\citydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C928FF4E-7C27-4F1A-81C6-A77EF8FBCBDE}|T8Api\\T8Api.csproj|solutionrelative:t8api\\dto\\citydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F9D1A810-41AD-41DC-A34A-CEFBCE28E0EC}|DataModel\\DataModel.csproj|c:\\users\\dm353201\\source\\repos\\t8api\\datamodel\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,92 +35,74 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\dm353201\\source\\repos\\T8Api\\T8Api\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "T8Api\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\dm353201\\source\\repos\\T8Api\\T8Api\\appsettings.Development.json",
-              "RelativeToolTip": "T8Api\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-05T00:13:14.032Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\dm353201\\source\\repos\\T8Api\\T8Api\\appsettings.json",
-              "RelativeDocumentMoniker": "T8Api\\appsettings.json",
-              "ToolTip": "C:\\Users\\dm353201\\source\\repos\\T8Api\\T8Api\\appsettings.json",
-              "RelativeToolTip": "T8Api\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-05T00:12:40.912Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CitiesController.cs",
-              "DocumentMoniker": "C:\\Users\\dm353201\\source\\repos\\T8Api\\T8Api\\Controllers\\CitiesController.cs",
-              "RelativeDocumentMoniker": "T8Api\\Controllers\\CitiesController.cs",
-              "ToolTip": "C:\\Users\\dm353201\\source\\repos\\T8Api\\T8Api\\Controllers\\CitiesController.cs",
-              "RelativeToolTip": "T8Api\\Controllers\\CitiesController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "SeedController.cs",
+              "DocumentMoniker": "C:\\Users\\dm353201\\source\\repos\\T8Api\\T8Api\\Controllers\\SeedController.cs",
+              "RelativeDocumentMoniker": "T8Api\\Controllers\\SeedController.cs",
+              "ToolTip": "C:\\Users\\dm353201\\source\\repos\\T8Api\\T8Api\\Controllers\\SeedController.cs",
+              "RelativeToolTip": "T8Api\\Controllers\\SeedController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T23:56:33.5Z",
+              "WhenOpened": "2024-10-12T00:11:16.962Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\dm353201\\source\\repos\\T8Api\\T8Api\\Program.cs",
-              "RelativeDocumentMoniker": "T8Api\\Program.cs",
-              "ToolTip": "C:\\Users\\dm353201\\source\\repos\\T8Api\\T8Api\\Program.cs",
-              "RelativeToolTip": "T8Api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABfAAAAAAAAAA==",
+              "Title": "worldCitiesCSV.cs",
+              "DocumentMoniker": "C:\\Users\\dm353201\\source\\repos\\T8Api\\T8Api\\data\\worldCitiesCSV.cs",
+              "RelativeDocumentMoniker": "T8Api\\data\\worldCitiesCSV.cs",
+              "ToolTip": "C:\\Users\\dm353201\\source\\repos\\T8Api\\T8Api\\data\\worldCitiesCSV.cs",
+              "RelativeToolTip": "T8Api\\data\\worldCitiesCSV.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T23:13:07.039Z",
+              "WhenOpened": "2024-10-12T00:07:31.371Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DmqContext.cs",
-              "DocumentMoniker": "C:\\Users\\dm353201\\source\\repos\\T8Api\\DataModel\\DmqContext.cs",
-              "RelativeDocumentMoniker": "DataModel\\DmqContext.cs",
-              "ToolTip": "C:\\Users\\dm353201\\source\\repos\\T8Api\\DataModel\\DmqContext.cs",
-              "RelativeToolTip": "DataModel\\DmqContext.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAWwBcAAACWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T00:40:37.221Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Country.cs",
-              "DocumentMoniker": "C:\\Users\\dm353201\\source\\repos\\T8Api\\DataModel\\Country.cs",
-              "RelativeDocumentMoniker": "DataModel\\Country.cs",
-              "ToolTip": "C:\\Users\\dm353201\\source\\repos\\T8Api\\DataModel\\Country.cs",
-              "RelativeToolTip": "DataModel\\Country.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T00:32:30.021Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "City.cs",
               "DocumentMoniker": "C:\\Users\\dm353201\\source\\repos\\T8Api\\DataModel\\City.cs",
               "RelativeDocumentMoniker": "DataModel\\City.cs",
               "ToolTip": "C:\\Users\\dm353201\\source\\repos\\T8Api\\DataModel\\City.cs",
               "RelativeToolTip": "DataModel\\City.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T00:32:28.092Z",
+              "WhenOpened": "2024-10-11T23:20:39.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "cityDTO.cs",
+              "DocumentMoniker": "C:\\Users\\dm353201\\source\\repos\\T8Api\\T8Api\\DTO\\cityDTO.cs",
+              "RelativeDocumentMoniker": "T8Api\\DTO\\cityDTO.cs",
+              "ToolTip": "C:\\Users\\dm353201\\source\\repos\\T8Api\\T8Api\\DTO\\cityDTO.cs",
+              "RelativeToolTip": "T8Api\\DTO\\cityDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T22:41:21.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CitiesController.cs",
+              "DocumentMoniker": "C:\\Users\\dm353201\\source\\repos\\T8Api\\T8Api\\Controllers\\CitiesController.cs",
+              "RelativeDocumentMoniker": "T8Api\\Controllers\\CitiesController.cs",
+              "ToolTip": "C:\\Users\\dm353201\\source\\repos\\T8Api\\T8Api\\Controllers\\CitiesController.cs",
+              "RelativeToolTip": "T8Api\\Controllers\\CitiesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T22:51:05.402Z",
               "EditorCaption": ""
             }
           ]
