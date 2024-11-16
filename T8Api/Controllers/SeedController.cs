@@ -2,6 +2,7 @@
 using CsvHelper.Configuration;
 using DataModel;
 using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System;
@@ -12,7 +13,7 @@ namespace T8Api.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class SeedController(DmqContext context,IHostEnvironment environment) : ControllerBase
+    public class SeedController(DmqContext context,IHostEnvironment environment,UserManager<AppUser> userManager) : ControllerBase
     {
         private readonly string _pathName = Path.Combine(environment.ContentRootPath, "Data/worldcities.csv");
 
@@ -58,7 +59,8 @@ namespace T8Api.Controllers
         }
 
         [HttpPost("Cities")]
-        public async Task<IActionResult> ImportCitiesAsync() { 
+        public async Task<IActionResult> ImportCitiesAsync()
+        {
             Dictionary<string, Country> countries = await context.Countries//.AsNoTracking()
             .ToDictionaryAsync(c => c.Name);
 
@@ -99,10 +101,32 @@ namespace T8Api.Controllers
                 await context.SaveChangesAsync();
             }
             return new JsonResult(cityCount);
-
-        
-        
         }
+        [HttpPost("Users")]
+        public async Task<IActionResult> ImportUsersAsync()
+        {
+            (string name, string email) = ("Human", "realhuman@email.com");
+            AppUser user = new AppUser()
+            {
+                UserName = name,
+                Email = email,
+                SecurityStamp = Guid.NewGuid().ToString()
+            };
 
-    }
-}
+            if (await userManager.FindByEmailAsync(email) is not null) return Ok(user);
+
+            IdentityResult result = await userManager.CreateAsync(user, "P4$$w0rd");
+
+            user.EmailConfirmed = true;
+            user.LockoutEnabled = false;
+
+            await context.SaveChangesAsync();
+            return Ok(user);
+
+
+         }
+
+
+     }
+
+   }

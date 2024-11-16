@@ -1,11 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
+using T8Api.Controllers;
+
 
 namespace DataModel;
 
-public partial class DmqContext : DbContext
+public partial class DmqContext : IdentityDbContext<AppUser>
 {
     public DmqContext()
     {
@@ -32,6 +35,7 @@ public partial class DmqContext : DbContext
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
+        base.OnModelCreating(modelBuilder);
         modelBuilder.Entity<City>(entity =>
         {
             entity.HasOne(d => d.Country).WithMany(p => p.Cities)
