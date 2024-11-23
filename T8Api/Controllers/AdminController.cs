@@ -35,7 +35,7 @@ namespace T8Api.Controllers
             LoginResponse response = new()
             {
                 Success = true,
-                Message = "Mom loves you <3",
+                Message = "I Need help",
                 Token = jwtString
             };
 

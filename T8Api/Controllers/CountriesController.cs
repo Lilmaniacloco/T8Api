@@ -24,6 +24,7 @@ namespace T8Api.Controllers
 
         // GET: api/Countries
         [HttpGet]
+        [Authorize]
         public async Task<ActionResult<IEnumerable<Country>>> GetCountries()
         {
             return await _context.Countries.ToListAsync();
@@ -46,6 +47,7 @@ namespace T8Api.Controllers
 
         // GET: api/CountriesPopulation/
         [HttpGet("countriesPopulation/{id}")]
+        [Authorize]
         public async Task<ActionResult<CountryPopulation>> GetCountryPopulation(int id)
         {
             var country = await _context.Countries.FindAsync(id);

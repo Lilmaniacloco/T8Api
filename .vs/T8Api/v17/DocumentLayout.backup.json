@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\dm353201\\source\\repos\\T8Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F9D1A810-41AD-41DC-A34A-CEFBCE28E0EC}|DataModel\\DataModel.csproj|c:\\users\\dm353201\\source\\repos\\t8api\\datamodel\\dmqcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9D1A810-41AD-41DC-A34A-CEFBCE28E0EC}|DataModel\\DataModel.csproj|solutionrelative:datamodel\\dmqcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C928FF4E-7C27-4F1A-81C6-A77EF8FBCBDE}|T8Api\\T8Api.csproj|c:\\users\\dm353201\\source\\repos\\t8api\\t8api\\dto\\countrypopulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C928FF4E-7C27-4F1A-81C6-A77EF8FBCBDE}|T8Api\\T8Api.csproj|solutionrelative:t8api\\dto\\countrypopulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C928FF4E-7C27-4F1A-81C6-A77EF8FBCBDE}|T8Api\\T8Api.csproj|c:\\users\\dm353201\\source\\repos\\t8api\\t8api\\dto\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C928FF4E-7C27-4F1A-81C6-A77EF8FBCBDE}|T8Api\\T8Api.csproj|solutionrelative:t8api\\dto\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C928FF4E-7C27-4F1A-81C6-A77EF8FBCBDE}|T8Api\\T8Api.csproj|c:\\users\\dm353201\\source\\repos\\t8api\\t8api\\dto\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C928FF4E-7C27-4F1A-81C6-A77EF8FBCBDE}|T8Api\\T8Api.csproj|solutionrelative:t8api\\dto\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C928FF4E-7C27-4F1A-81C6-A77EF8FBCBDE}|T8Api\\T8Api.csproj|c:\\users\\dm353201\\source\\repos\\t8api\\t8api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C928FF4E-7C27-4F1A-81C6-A77EF8FBCBDE}|T8Api\\T8Api.csproj|solutionrelative:t8api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C928FF4E-7C27-4F1A-81C6-A77EF8FBCBDE}|T8Api\\T8Api.csproj|c:\\users\\dm353201\\source\\repos\\t8api\\t8api\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C928FF4E-7C27-4F1A-81C6-A77EF8FBCBDE}|T8Api\\T8Api.csproj|solutionrelative:t8api\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C928FF4E-7C27-4F1A-81C6-A77EF8FBCBDE}|T8Api\\T8Api.csproj|c:\\users\\dm353201\\source\\repos\\t8api\\t8api\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C928FF4E-7C27-4F1A-81C6-A77EF8FBCBDE}|T8Api\\T8Api.csproj|solutionrelative:t8api\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C928FF4E-7C27-4F1A-81C6-A77EF8FBCBDE}|T8Api\\T8Api.csproj|c:\\users\\dm353201\\source\\repos\\t8api\\t8api\\controllers\\seedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -18,8 +38,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CountryPopulation.cs",
+              "DocumentMoniker": "C:\\Users\\dm353201\\source\\repos\\T8Api\\T8Api\\DTO\\CountryPopulation.cs",
+              "RelativeDocumentMoniker": "T8Api\\DTO\\CountryPopulation.cs",
+              "ToolTip": "C:\\Users\\dm353201\\source\\repos\\T8Api\\T8Api\\DTO\\CountryPopulation.cs",
+              "RelativeToolTip": "T8Api\\DTO\\CountryPopulation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T23:18:31.308Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -30,28 +63,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DmqContext.cs",
-              "DocumentMoniker": "C:\\Users\\dm353201\\source\\repos\\T8Api\\DataModel\\DmqContext.cs",
-              "RelativeDocumentMoniker": "DataModel\\DmqContext.cs",
-              "ToolTip": "C:\\Users\\dm353201\\source\\repos\\T8Api\\DataModel\\DmqContext.cs",
-              "RelativeToolTip": "DataModel\\DmqContext.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAiwDQAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "C:\\Users\\dm353201\\source\\repos\\T8Api\\T8Api\\DTO\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "T8Api\\DTO\\LoginResponse.cs",
+              "ToolTip": "C:\\Users\\dm353201\\source\\repos\\T8Api\\T8Api\\DTO\\LoginResponse.cs",
+              "RelativeToolTip": "T8Api\\DTO\\LoginResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T00:46:54.299Z",
+              "WhenOpened": "2024-11-22T23:18:29.907Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\dm353201\\source\\repos\\T8Api\\T8Api\\DTO\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "T8Api\\DTO\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\dm353201\\source\\repos\\T8Api\\T8Api\\DTO\\LoginRequest.cs",
+              "RelativeToolTip": "T8Api\\DTO\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T23:18:29.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CitiesController.cs",
+              "DocumentMoniker": "C:\\Users\\dm353201\\source\\repos\\T8Api\\T8Api\\Controllers\\CitiesController.cs",
+              "RelativeDocumentMoniker": "T8Api\\Controllers\\CitiesController.cs",
+              "ToolTip": "C:\\Users\\dm353201\\source\\repos\\T8Api\\T8Api\\Controllers\\CitiesController.cs",
+              "RelativeToolTip": "T8Api\\Controllers\\CitiesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T23:18:20.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CountriesController.cs",
+              "DocumentMoniker": "C:\\Users\\dm353201\\source\\repos\\T8Api\\T8Api\\Controllers\\CountriesController.cs",
+              "RelativeDocumentMoniker": "T8Api\\Controllers\\CountriesController.cs",
+              "ToolTip": "C:\\Users\\dm353201\\source\\repos\\T8Api\\T8Api\\Controllers\\CountriesController.cs",
+              "RelativeToolTip": "T8Api\\Controllers\\CountriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T23:18:04.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "SeedController.cs",
               "DocumentMoniker": "C:\\Users\\dm353201\\source\\repos\\T8Api\\T8Api\\Controllers\\SeedController.cs",
               "RelativeDocumentMoniker": "T8Api\\Controllers\\SeedController.cs",
               "ToolTip": "C:\\Users\\dm353201\\source\\repos\\T8Api\\T8Api\\Controllers\\SeedController.cs",
               "RelativeToolTip": "T8Api\\Controllers\\SeedController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAIEAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T00:55:34.159Z",
+              "WhenOpened": "2024-11-22T23:15:05.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\dm353201\\source\\repos\\T8Api\\T8Api\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "T8Api\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\dm353201\\source\\repos\\T8Api\\T8Api\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "T8Api\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T23:14:12.957Z",
               "EditorCaption": ""
             }
           ]
